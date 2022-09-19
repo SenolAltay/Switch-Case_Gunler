@@ -1,0 +1,7 @@
+C:\Users\ŞENOL\source\repos\SwitchCase_Gunler\SwitchCase_Gunler\obj\Debug\SwitchCase_Gunler.csproj.AssemblyReference.cache
+C:\Users\ŞENOL\source\repos\SwitchCase_Gunler\SwitchCase_Gunler\obj\Debug\SwitchCase_Gunler.csproj.CoreCompileInputs.cache
+C:\Users\ŞENOL\source\repos\SwitchCase_Gunler\SwitchCase_Gunler\bin\Debug\SwitchCase_Gunler.exe.config
+C:\Users\ŞENOL\source\repos\SwitchCase_Gunler\SwitchCase_Gunler\bin\Debug\SwitchCase_Gunler.exe
+C:\Users\ŞENOL\source\repos\SwitchCase_Gunler\SwitchCase_Gunler\bin\Debug\SwitchCase_Gunler.pdb
+C:\Users\ŞENOL\source\repos\SwitchCase_Gunler\SwitchCase_Gunler\obj\Debug\SwitchCase_Gunler.exe
+C:\Users\ŞENOL\source\repos\SwitchCase_Gunler\SwitchCase_Gunler\obj\Debug\SwitchCase_Gunler.pdb
